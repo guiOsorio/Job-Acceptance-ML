@@ -1,5 +1,7 @@
 # Job-Acceptance-ML
 
+The goal of this project is to try to accurately predict the status of a job candidate, after a job offer is presented. This is useful to reduce costs of the hiring comopany, as a candidate's rejection will raise costs to the process of filling the position.
+
 ## This project was divided in the following way:
 - ### Data Collection
   - Data collected from Harvard Business School article 'HR Analytics at ScaleneWorks: Behavioral Modelling to Predict Renege'.
